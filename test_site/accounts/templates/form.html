@@ -1,0 +1,14 @@
+<h1>SQL Injection Test Page</h1>
+
+<div class="container">
+    <form method="POST" action="{% url 'login' %}">
+        {% csrf_token %}
+        Username:
+        <br>
+        <input name="username" type="text">
+        <br>
+        <input name="password" type="password">
+        <br>
+        <input type="submit" value="log in">
+    </form>
+</div>
