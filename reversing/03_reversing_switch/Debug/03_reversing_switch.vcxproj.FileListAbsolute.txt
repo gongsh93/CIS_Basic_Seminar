@@ -1,0 +1,2 @@
+C:\Users\gongs\code\reversing\03_reversing_switch\Debug\03_reversing_switch.exe
+C:\Users\gongs\code\reversing\03_reversing_switch\Debug\03_reversing_switch.pdb

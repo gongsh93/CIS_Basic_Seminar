@@ -1,0 +1,2 @@
+C:\Users\gongs\code\reversing\reverse_helloworld\Debug\reverse_helloworld.exe
+C:\Users\gongs\code\reversing\reverse_helloworld\Debug\reverse_helloworld.pdb
